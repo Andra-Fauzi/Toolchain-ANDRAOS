@@ -1,0 +1,21 @@
+# Abaikan semua folder proses kompilasi
+build/
+
+# Abaikan file kompilasi akhir atau installer
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.tar
+*.tar.gz
+*.tar.xz
+*.zip
+
+# Abaikan sysroot atau folder instalasi (jika ada)
+sysroot/
+install/
+
+# Abaikan file system temporary
+.DS_Store
+Thumbs.db

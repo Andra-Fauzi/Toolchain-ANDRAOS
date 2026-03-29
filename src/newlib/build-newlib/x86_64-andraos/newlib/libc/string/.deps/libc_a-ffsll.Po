@@ -1,0 +1,25 @@
+libc/string/libc_a-ffsll.o: ../../../newlib/libc/string/ffsll.c \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/strings.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/cdefs.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/_default_types.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/features.h \
+ _newlib_version.h \
+ /opt/andraos/lib/gcc/x86_64-andraos/15.2.0/include/stddef.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/_types.h \
+ newlib.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/config.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/ieeefp.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/_types.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/_locale.h
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/strings.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/cdefs.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/_default_types.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/features.h:
+_newlib_version.h:
+/opt/andraos/lib/gcc/x86_64-andraos/15.2.0/include/stddef.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/_types.h:
+newlib.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/config.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/ieeefp.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/_types.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/_locale.h:

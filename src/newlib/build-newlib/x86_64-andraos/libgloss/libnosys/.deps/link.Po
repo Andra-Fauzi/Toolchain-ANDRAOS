@@ -1,0 +1,36 @@
+libnosys/link.o: ../../../libgloss/libnosys/link.c config.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/_ansi.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/build-newlib/x86_64-andraos/newlib/targ-include/newlib.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/build-newlib/x86_64-andraos/newlib/targ-include/_newlib_version.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/config.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/ieeefp.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/features.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/_syslist.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/errno.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/errno.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/reent.h \
+ /opt/andraos/lib/gcc/x86_64-andraos/15.2.0/include/stddef.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/cdefs.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/_default_types.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/_types.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/_types.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/lock.h \
+ ../../../libgloss/libnosys/warning.h
+config.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/_ansi.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/build-newlib/x86_64-andraos/newlib/targ-include/newlib.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/build-newlib/x86_64-andraos/newlib/targ-include/_newlib_version.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/config.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/ieeefp.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/features.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/_syslist.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/errno.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/errno.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/reent.h:
+/opt/andraos/lib/gcc/x86_64-andraos/15.2.0/include/stddef.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/cdefs.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/_default_types.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/_types.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/_types.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/lock.h:
+../../../libgloss/libnosys/warning.h:

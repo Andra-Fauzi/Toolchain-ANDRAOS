@@ -1,0 +1,12 @@
+libc/misc/libc_a-unctrl.o: ../../../newlib/libc/misc/unctrl.c \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/_ansi.h \
+ newlib.h _newlib_version.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/config.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/ieeefp.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/features.h
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/_ansi.h:
+newlib.h:
+_newlib_version.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/config.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/ieeefp.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/features.h:

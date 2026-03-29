@@ -1,0 +1,1 @@
+libnosys/environ.o: ../../../libgloss/libnosys/environ.c

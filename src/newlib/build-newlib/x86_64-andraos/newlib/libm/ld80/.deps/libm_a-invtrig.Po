@@ -1,0 +1,35 @@
+libm/ld80/libm_a-invtrig.o: ../../../newlib/libm/ld80/invtrig.c \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/cdefs.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/_default_types.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/features.h \
+ _newlib_version.h \
+ /opt/andraos/lib/gcc/x86_64-andraos/15.2.0/include/stddef.h \
+ ../../../newlib/libm/ld80/invtrig.h \
+ /opt/andraos/lib/gcc/x86_64-andraos/15.2.0/include/float.h \
+ ../../../newlib/libm/ld80/../ld/fpmath.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/endian.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/_types.h \
+ newlib.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/config.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/ieeefp.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/_types.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/endian.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/_endian.h \
+ /c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/build-newlib/x86_64-andraos/newlib/targ-include/machine/_fpmath.h
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/cdefs.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/_default_types.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/features.h:
+_newlib_version.h:
+/opt/andraos/lib/gcc/x86_64-andraos/15.2.0/include/stddef.h:
+../../../newlib/libm/ld80/invtrig.h:
+/opt/andraos/lib/gcc/x86_64-andraos/15.2.0/include/float.h:
+../../../newlib/libm/ld80/../ld/fpmath.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/endian.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/_types.h:
+newlib.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/sys/config.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/ieeefp.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/_types.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/endian.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/newlib/libc/include/machine/_endian.h:
+/c/msys64/home/ANDRA/workspace/andraos-newlib/newlib-cygwin/build-newlib/x86_64-andraos/newlib/targ-include/machine/_fpmath.h:

@@ -1,0 +1,3 @@
+libc/sys/andraos/crt0.o: ../../../newlib/libc/sys/andraos/crt0.c \
+ /opt/andraos/lib/gcc/x86_64-andraos/15.2.0/include/stddef.h
+/opt/andraos/lib/gcc/x86_64-andraos/15.2.0/include/stddef.h:
